@@ -1,0 +1,1 @@
+# copilot_detection_coco
